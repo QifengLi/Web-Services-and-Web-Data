@@ -1,0 +1,20 @@
+city_name,country,latitude,longitude,record_date,temp_avg_c,temp_min_c,temp_max_c,precipitation_mm,wind_speed_max_mps,source,notes
+Leeds,United Kingdom,53.8008,-1.5491,2026-04-10,9.6,6.2,13.0,2.4,5.8,seed,Sample dataset row
+Leeds,United Kingdom,53.8008,-1.5491,2026-04-11,10.2,7.1,13.3,1.8,4.6,seed,Sample dataset row
+Leeds,United Kingdom,53.8008,-1.5491,2026-04-12,11.4,8.9,13.9,0.6,4.0,seed,Sample dataset row
+Leeds,United Kingdom,53.8008,-1.5491,2026-04-13,12.0,9.0,15.0,0.0,3.7,seed,Sample dataset row
+Leeds,United Kingdom,53.8008,-1.5491,2026-04-14,8.8,5.1,12.5,5.2,6.4,seed,Sample dataset row
+Leeds,United Kingdom,53.8008,-1.5491,2026-04-15,9.1,6.3,11.9,4.4,7.1,seed,Sample dataset row
+Manchester,United Kingdom,53.4808,-2.2426,2026-04-10,10.0,7.2,12.8,3.0,6.2,seed,Sample dataset row
+Manchester,United Kingdom,53.4808,-2.2426,2026-04-11,10.9,8.3,13.5,1.5,5.0,seed,Sample dataset row
+Manchester,United Kingdom,53.4808,-2.2426,2026-04-12,11.8,9.1,14.5,0.9,4.4,seed,Sample dataset row
+Manchester,United Kingdom,53.4808,-2.2426,2026-04-13,12.6,10.0,15.2,0.2,3.8,seed,Sample dataset row
+Manchester,United Kingdom,53.4808,-2.2426,2026-04-14,9.4,6.0,12.8,4.8,6.5,seed,Sample dataset row
+Manchester,United Kingdom,53.4808,-2.2426,2026-04-15,9.8,6.4,13.2,3.7,6.9,seed,Sample dataset row
+London,United Kingdom,51.5074,-0.1278,2026-04-10,11.8,8.8,14.8,1.1,4.2,seed,Sample dataset row
+London,United Kingdom,51.5074,-0.1278,2026-04-11,12.5,9.9,15.1,0.7,3.8,seed,Sample dataset row
+London,United Kingdom,51.5074,-0.1278,2026-04-12,13.7,10.8,16.6,0.1,3.4,seed,Sample dataset row
+London,United Kingdom,51.5074,-0.1278,2026-04-13,14.2,11.2,17.2,0.0,3.1,seed,Sample dataset row
+London,United Kingdom,51.5074,-0.1278,2026-04-14,10.9,7.5,14.3,2.9,4.9,seed,Sample dataset row
+London,United Kingdom,51.5074,-0.1278,2026-04-15,11.3,8.1,14.5,2.3,5.3,seed,Sample dataset row
+
