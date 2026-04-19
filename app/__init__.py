@@ -1,0 +1,2 @@
+"""ClimatePulse API package."""
+
